@@ -1,0 +1,2 @@
+print('pls')
+str = input()

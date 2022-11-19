@@ -1,0 +1,5 @@
+2022-11-01 20:31:18,426 - python_course.py[line:29] - DEBUG: This is a debug log.
+2022-11-01 20:31:18,426 - python_course.py[line:30] - INFO: This is a info log.
+2022-11-01 20:31:18,426 - python_course.py[line:31] - WARNING: This is a warning log.
+2022-11-01 20:31:18,426 - python_course.py[line:32] - ERROR: This is a error log.
+2022-11-01 20:31:18,426 - python_course.py[line:33] - CRITICAL: This is a critical log.
